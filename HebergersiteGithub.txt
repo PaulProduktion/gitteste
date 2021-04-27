@@ -1,0 +1,11 @@
+CREER UN REPOSITORY
+METTRE LE NOM DE NOTRE GITHUB => PaulProduktion.github.io
+Créer le répertoire
+Récupérer l'adresse. 
+On peut le cloner sur notre bureau
+Git clone +url
+Ouvrir tmerinla
+Git add . 
+Git commit -m 
+Git push -u origin master
+
